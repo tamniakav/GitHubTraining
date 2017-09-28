@@ -1,6 +1,10 @@
 Create new file.
 
+<<<<<<< HEAD
 
 
 
 Add one more line with text from TortoiseGit.
+=======
+Add one more line with text from Console.
+>>>>>>> df307531af5256c3118cc896aae85c37107ef783
