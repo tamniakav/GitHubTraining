@@ -1,10 +1,12 @@
-Create new file.
+ What is their name?
+ Where are they from?
+ What hobbies/pastimes do they enjoy?
+ Why did they pick SoftUni?
 
-<<<<<<< HEAD
+My data
 
+1 Vladimir
+2 Russe
+3 My hobby is woodcarving
+4 I want to learn something new
 
-
-Add one more line with text from TortoiseGit.
-=======
-Add one more line with text from Console.
->>>>>>> df307531af5256c3118cc896aae85c37107ef783
